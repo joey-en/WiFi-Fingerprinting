@@ -1,4 +1,4 @@
-### Indoor Localization and Wi-Fi Fingerprinting
+# Indoor Localization and Wi-Fi Fingerprinting
 
 **Course:** DSAI 3201 – Machine Learning
 **University:** University of Doha for Science and Technology
