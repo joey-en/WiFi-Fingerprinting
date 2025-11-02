@@ -5,7 +5,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 This project explores **Indoor Localization using Wi-Fi Fingerprinting** based on the **UJIIndoorLoc Dataset**. It aims to estimate device locations in indoor environments where GPS is unavailable or unreliable (e.g., malls, offices, or underground buildings).
 
@@ -16,7 +16,7 @@ Two main tasks were performed:
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 * Develop and evaluate **classification models** (Decision Tree, SVM, Random Forest) to identify building and floor.
 * Implement **regression models** (Neural Network, CNN) for coordinate prediction.
@@ -25,7 +25,7 @@ Two main tasks were performed:
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 **Dataset:** [UJIIndoorLoc](https://doi.org/10.24432/C5MS59)
 
@@ -42,7 +42,7 @@ Two main tasks were performed:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. **Classification Models**
 
@@ -63,7 +63,7 @@ Two main tasks were performed:
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 | Model          | Task       | Key Metric | Score                               | Notes                     |
 | :------------- | :--------- | :--------- | :---------------------------------- | :------------------------ |
@@ -75,7 +75,7 @@ Two main tasks were performed:
 
 ---
 
-## 🧩 Tools and Libraries
+## Tools and Libraries
 
 * **Python**
 * **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `torch`
@@ -87,7 +87,7 @@ Two main tasks were performed:
 ---
 
 
-## 🔬 References
+## References
 
 1. Torres-Sospedra, J. et al. (2014). *UJIIndoorLoc Dataset.* UCI Machine Learning Repository.
 2. Chelly, M., & Samama, N. (2009). *New Techniques for Indoor Positioning.* ENC-GNSS.
